@@ -1,1 +1,1 @@
-A VR game made by me (shivens20) that is based on medieval times.
+A VR game made by me (ShivenSunkuru) that is based on medieval times.
